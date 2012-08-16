@@ -1,0 +1,11 @@
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\bin\Debug\KinectCameraSample.exe
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\bin\Debug\KinectCameraSample.pdb
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\MainWindow.baml
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\MainWindow.g.cs
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\App.g.cs
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample_MarkupCompile.cache
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.g.resources
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.Properties.Resources.resources
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.csproj.GenerateResource.Cache
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.exe
+C:\GithubRepositories\Kinection-Kinect\1-3\KinectCameraSample\KinectCameraSample\obj\x86\Debug\KinectCameraSample.pdb
